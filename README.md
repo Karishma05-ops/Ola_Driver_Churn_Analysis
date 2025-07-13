@@ -1,12 +1,6 @@
 # 🚖 Ola Driver Churn Prediction – A Data Science Case Study
 
-**Author**: _Your Name_  
-**Role Target**: **Data Analyst** | **Business Analyst**  
-**Project Type**: **End-to-End Machine Learning & Business Insights**  
-**Status**: ✅ Completed  
-**Use Case**: Real-world business scenario inspired by **Ola Cabs**
 
----
 
 ## 📌 **Executive Summary**
 
