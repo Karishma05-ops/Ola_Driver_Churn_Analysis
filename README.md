@@ -73,6 +73,34 @@ High driver attrition in the ride-sharing industry leads to:
   - Driver Ratings
   - Number of Cancellations
   - Idle Time per Day
+ 
+---
+## ⚙️ **Setup Instructions**
+
+1.Clone the repository to your local machine
+→ git clone https://github.com/Karishma05-ops/Ola_Driver_Churn_Analysis.git
+
+2.(Optional) Create and activate a virtual environment for isolated dependencies
+→ python -m venv venv
+
+3.Install required packages from the requirements.txt file
+→ pip install -r requirements.txt
+
+4.Ensure the dataset file ola_driver.csv is placed inside the data/ folder
+
+5.Open the Jupyter Notebook
+→ Navigate to notebooks/churn_analysis.ipynb and run the full analysis pipeline
+
+-Alternatively, run Python scripts from the src/ folder:
+
+🧼 Preprocessing → preprocess.py
+
+🤖 Model Training & Evaluation → train_predict.py
+
+
+
+
+
 
 ---
 ## 💡 Additional Business Insights for Ola
